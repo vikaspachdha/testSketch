@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Qt Bridge Plugin</title>
+        <description>Export your sketch design into QML</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.3.1</title>
+            <description>
+                <![CDATA[
+                <ul> <li>Fixes sketch crash on macOS Catalina. </li> </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 28 oct 2019 10:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/vikaspachdha/testSketch/releases/download/1.0/qt-bridge-sketch-v1.3.1.zip" sparkle:version="1.3.1"/>
+        </item>
+    </channel>
+</rss>
